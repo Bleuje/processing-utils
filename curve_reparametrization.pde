@@ -58,3 +58,10 @@ PVector constantSpeedCurve(float p)
 
     return curvePath(prm);
 }
+
+/* in setup():
+
+  fillCumulLengths();
+  fillParamOfSample();
+
+*/
