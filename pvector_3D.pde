@@ -42,7 +42,7 @@ class Coordinates
         u3 = u3_.copy().normalize();
     }
 
-        void showVectors()
+    void showVectors()
     {
         push();
         translate(position.x, position.y, position.z);
