@@ -7,7 +7,7 @@ void drawFace(float l)
   rect(0,0,l,l);
   
   /*
-  oher stuff
+  other stuff
   */
 }
 
