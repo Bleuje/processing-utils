@@ -1,3 +1,5 @@
+// would be nice if you let me know if you the code in this file is useful to you (I'm @etiennejcb on twitter)
+
 PVector curvePath(float q) {
     PVector v  = new PVector(0, 0, 0);
     // ...
