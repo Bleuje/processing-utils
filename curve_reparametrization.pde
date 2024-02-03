@@ -61,9 +61,14 @@ PVector constantSpeedCurve(float p)
     return curvePath(prm);
 }
 
-/* in setup():
-
+void computeCurveReparametrization()
+{
   fillCumulLengths();
   fillParamOfSample();
+}
+
+/* in setup():
+
+  computeCurveReparametrization();
 
 */
